@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+instance/
+pingline.db
+.DS_Store
